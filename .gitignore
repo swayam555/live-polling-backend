@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+
+# Mac and Linux system files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Optional: output or temporary folders
+dist/
+build/
